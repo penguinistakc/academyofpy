@@ -101,5 +101,4 @@ ENV/
 .mypy_cache/
 
 # data related
-raw_data/
 .DS_STORE
